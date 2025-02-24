@@ -112,18 +112,3 @@ A chatbot enables users to ask questions about:
 
 ---
 
-## Image Section
-![E-Commerce Platform](https://github.com/ArchanDadhaniya/E-commarce-full-stack-application/blob/ac685df937fee27cf3468338e4923ae2b343939a/Pro%201.png)
-
-![E-Commerce Platform](https://github.com/ArchanDadhaniya/E-commarce-full-stack-application/blob/ac685df937fee27cf3468338e4923ae2b343939a/Pro%202.png)
-
-![E-Commerce Platform](https://github.com/ArchanDadhaniya/E-commarce-full-stack-application/blob/ac685df937fee27cf3468338e4923ae2b343939a/Pro%203.png)
-
-![E-Commerce Platform](https://github.com/ArchanDadhaniya/E-commarce-full-stack-application/blob/ac685df937fee27cf3468338e4923ae2b343939a/Pro%204.png)
-
-![E-Commerce Platform](https://github.com/ArchanDadhaniya/E-commarce-full-stack-application/blob/ac685df937fee27cf3468338e4923ae2b343939a/Pro%205.png)
-
-![E-Commerce Platform](https://github.com/ArchanDadhaniya/E-commarce-full-stack-application/blob/ac685df937fee27cf3468338e4923ae2b343939a/Pro%206.png)
-
-![E-Commerce Platform](https://github.com/ArchanDadhaniya/E-commarce-full-stack-application/blob/ac685df937fee27cf3468338e4923ae2b343939a/Pro%207.png)
-
